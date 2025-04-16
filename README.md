@@ -85,5 +85,5 @@ This project reflects **real-world cybersecurity analysis** using scalable big d
 
 ## 📬 Contact
 
-Made by **Vineet Sudhir** — feel free to connect on [LinkedIn](#) or explore more on [GitHub](#)
+Made by **Vineet Sudhir** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/vineet-sudhir-0453601a0/) or explore more on [GitHub](https://github.com/VineetSudhir)
 
